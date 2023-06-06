@@ -1,5 +1,5 @@
 scalaVersion := "2.13.10"
-name := "wk"
+name := "tinkoff-tusich"
 
 
 
@@ -25,7 +25,7 @@ libraryDependencies ++= Seq(
   "org.http4s" %% "http4s-ember-server" % "0.23.19"
 )
 
-dependencyOverrides += "io.circe" %% "circe-core" % "0.14.3"
+dependencyOverrides += "io.circe" %% "circe-core" % "0.14.5"
 
 scalacOptions ++= Seq("-Ymacro-annotations")
 
