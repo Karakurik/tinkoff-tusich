@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "firstName": "Insaf",
+    "lastName": "Fayzrakhmanov",
+    "achievements": [
+      {
+        "id": 1,
+        "userId": 1,
+        "achievement": {
+          "id": 1,
+          "name": "Погладить курочку",
+          "tusichId": 1
+        },
+        "level": 2
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firstName": "Scala",
+    "lastName": "Engineer",
+    "achievements": []
+  }
+]
